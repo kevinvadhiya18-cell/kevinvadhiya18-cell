@@ -1,77 +1,155 @@
-# Hi, I'm Kevin Vadhiya 👋
+# 👋 Hi, I'm Kevin Vadhiya
 
-### Web Developer | Frontend Developer
+### 💻 Web Developer | Frontend Developer
 
-I'm a BCA graduate currently pursuing BCA Honours (Semester 7) at Silver Oak College, Ahmedabad.
-
-I enjoy building responsive, user-friendly websites and learning modern web development technologies.
+<p align="center">
+  <a href="https://hanayacreation.in">
+    <img src="https://img.shields.io/badge/🌐_Live_Project-Hanaya_Creation-000000?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/kevin-vadhiya-107998293">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
-- Git & GitHub
-- Vite
-- REST APIs
-- JSON
-- Responsive Web Design
+🎓 BCA Graduate — Silver Oak College, Ahmedabad  
+📚 BCA Honours — Semester 7  
+📍 Ahmedabad, Gujarat, India  
+💼 Looking for Web Developer / Frontend Developer opportunities
+
+I enjoy building responsive, user-friendly websites and learning modern
+web development technologies.
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github" />
+
+</p>
 
 ---
 
 ## 🚀 Featured Project
 
-### Hanaya Creation
+### 🛍️ Hanaya Creation
 
 A responsive e-commerce website developed for a handmade crochet gifts brand.
 
-**Features:**
-- Responsive product pages
-- Product images and videos
-- Interactive UI
-- Mobile-friendly design
-- SEO optimization
-- Sitemap and robots.txt
+**Highlights**
 
-🌐 **Live Website:** https://hanayacreation.in
+- 📱 Responsive design
+- 🛍️ Product pages
+- 🎥 Product images & videos
+- 🔍 SEO optimization
+- 🗺️ Sitemap & robots.txt
+- ⚡ Interactive UI
+- 🌐 Deployed website
 
----
-
-## 📂 Other Projects
-
-- 🎮 **Game Zone** — Browser-based gaming website
-- ⚛️ **React Components & Props**
-- 🔄 **React useState**
-- ⚡ **React useEffect**
-- 🧭 **React Router**
-- 🪝 **Advanced React Hooks**
+<p align="center">
+  <a href="https://hanayacreation.in">
+    <img src="https://img.shields.io/badge/Visit_Website-Hanaya_Creation-111111?style=for-the-badge&logo=googlechrome">
+  </a>
+</p>
 
 ---
 
-## 🎓 Education
+<details>
+<summary>🛠️ What I Work With</summary>
 
-**BCA** — Silver Oak College  
-2023 – 2026
+<br>
 
-**BCA Honours** — Semester 7  
-Currently pursuing
+| Area | Technologies |
+|---|---|
+| Frontend | HTML, CSS, JavaScript, React.js |
+| Styling | Tailwind CSS |
+| Development | Vite |
+| Version Control | Git, GitHub |
+| Web | Responsive Design, SEO |
+| Tools | VS Code |
+
+</details>
 
 ---
 
-## 🎯 Currently Looking For
+<details>
+<summary>📚 Currently Learning</summary>
 
-**Web Developer | Frontend Developer | React Developer | Web Development Internship**
+<br>
 
-📍 Ahmedabad, Gujarat, India
+- ⚛️ Advanced React
+- 🎨 Modern UI development
+- 🚀 Frontend performance
+- 🔍 SEO
+- 🧩 Full-stack web development
+
+</details>
 
 ---
 
-## 🔗 Connect With Me
+## 📊 GitHub Activity
 
-- 💼 LinkedIn: https://www.linkedin.com/in/kevin-vadhiya-107998293
-- 🌐 Website: https://hanayacreation.in
-- 📧 Email: kevinvadhiya18@gmail.com
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kevinvadhiya18-cell&show_icons=true&theme=transparent&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinvadhiya18-cell&theme=transparent&hide_border=true" />
+
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinvadhiya18-cell&layout=compact&theme=transparent&hide_border=true" />
+
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/kevinvadhiya18-cell/kevinvadhiya18-cell/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kevin-vadhiya-107998293">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://hanayacreation.in">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="mailto:kevinvadhiya18@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Building. Learning. Improving.
+
+</p>
