@@ -1,27 +1,38 @@
 # 👋 Hi, I'm Kevin Vadhiya
 
-### 💻 Web Developer | Frontend Developer
+### 💻 Web Developer | Frontend Developer | React.js Developer
 
 <p align="center">
-  <a href="https://hanayacreation.in">
-    <img src="https://img.shields.io/badge/🌐_Live_Project-Hanaya_Creation-000000?style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/kevin-vadhiya-107998293">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
+
+<a href="https://hanayacreation.in">
+<img src="https://img.shields.io/badge/🌐_Live_Project-Hanaya_Creation-000000?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/kevin-vadhiya-107998293">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:kevinvadhiya18@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎓 BCA Graduate — Silver Oak College, Ahmedabad  
-📚 BCA Honours — Semester 7  
-📍 Ahmedabad, Gujarat, India  
-💼 Looking for Web Developer / Frontend Developer opportunities
+🎓 **BCA Graduate** — Silver Oak College, Ahmedabad  
+📚 **BCA Honours — Semester 7**  
+📍 **Ahmedabad, Gujarat, India**  
+💼 **Open to Web Developer / Frontend Developer opportunities**
 
-I enjoy building responsive, user-friendly websites and learning modern
-web development technologies.
+I'm a Web Developer and Frontend Developer who enjoys building
+responsive, user-friendly websites and learning modern web development
+technologies.
+
+I enjoy turning ideas into real-world websites and continuously improving
+my development skills through practical projects.
 
 ---
 
@@ -29,127 +40,83 @@ web development technologies.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github,vscode" />
 
 </p>
+
+### 🧰 Technologies
+
+| Area | Technologies |
+|---|---|
+| Frontend | HTML, CSS, JavaScript, React.js |
+| Styling | CSS, Tailwind CSS |
+| Build Tools | Vite |
+| Version Control | Git, GitHub |
+| Development | VS Code |
+| Web | Responsive Design, SEO |
 
 ---
 
 ## 🚀 Featured Project
 
-### 🛍️ Hanaya Creation
+# 🛍️ Hanaya Creation
 
-A responsive e-commerce website developed for a handmade crochet gifts brand.
+### Responsive E-commerce Website
 
-**Highlights**
+A responsive e-commerce website developed for a handmade crochet
+gifts brand.
+
+### ✨ Highlights
 
 - 📱 Responsive design
 - 🛍️ Product pages
-- 🎥 Product images & videos
+- 🖼️ Product images
+- 🎥 Product videos
 - 🔍 SEO optimization
-- 🗺️ Sitemap & robots.txt
+- 🗺️ Sitemap and robots.txt
 - ⚡ Interactive UI
-- 🌐 Deployed website
+- 📱 Mobile-friendly interface
+- 🌐 Live deployment
 
 <p align="center">
-  <a href="https://hanayacreation.in">
-    <img src="https://img.shields.io/badge/Visit_Website-Hanaya_Creation-111111?style=for-the-badge&logo=googlechrome">
-  </a>
+
+<a href="https://hanayacreation.in">
+<img src="https://img.shields.io/badge/🚀_Visit_Website-Hanaya_Creation-238636?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
 </p>
+
+> 🔒 **Source Code:** Private repository  
+> 🌐 **Live Website:** Public
 
 ---
 
 <details>
+
 <summary>🛠️ What I Work With</summary>
 
 <br>
 
-| Area | Technologies |
-|---|---|
-| Frontend | HTML, CSS, JavaScript, React.js |
-| Styling | Tailwind CSS |
-| Development | Vite |
-| Version Control | Git, GitHub |
-| Web | Responsive Design, SEO |
-| Tools | VS Code |
+```text
+Frontend
+├── HTML
+├── CSS
+├── JavaScript
+└── React.js
 
-</details>
+Styling
+└── Tailwind CSS
 
----
+Development
+└── Vite
 
-<details>
-<summary>📚 Currently Learning</summary>
+Version Control
+├── Git
+└── GitHub
 
-<br>
+Tools
+└── VS Code
 
-- ⚛️ Advanced React
-- 🎨 Modern UI development
-- 🚀 Frontend performance
-- 🔍 SEO
-- 🧩 Full-stack web development
-
-</details>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kevinvadhiya18-cell&show_icons=true&theme=transparent&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinvadhiya18-cell&theme=transparent&hide_border=true" />
-
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinvadhiya18-cell&layout=compact&theme=transparent&hide_border=true" />
-
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/kevinvadhiya18-cell/kevinvadhiya18-cell/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/kevin-vadhiya-107998293">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://hanayacreation.in">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-<a href="mailto:kevinvadhiya18@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 🚀 Building. Learning. Improving.
-
-</p>
+Web
+├── Responsive Design
+└── SEO
