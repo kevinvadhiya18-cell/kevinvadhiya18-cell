@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi, I'm Kevin Vadhiya 👋
 
-<!--
-**kevinvadhiya18-cell/kevinvadhiya18-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | Frontend Developer
 
-Here are some ideas to get you started:
+I'm a BCA graduate currently pursuing BCA Honours (Semester 7) at Silver Oak College, Ahmedabad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building responsive, user-friendly websites and learning modern web development technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Tailwind CSS
+- Git & GitHub
+- Vite
+- REST APIs
+- JSON
+- Responsive Web Design
+
+---
+
+## 🚀 Featured Project
+
+### Hanaya Creation
+
+A responsive e-commerce website developed for a handmade crochet gifts brand.
+
+**Features:**
+- Responsive product pages
+- Product images and videos
+- Interactive UI
+- Mobile-friendly design
+- SEO optimization
+- Sitemap and robots.txt
+
+🌐 **Live Website:** https://hanayacreation.in
+
+---
+
+## 📂 Other Projects
+
+- 🎮 **Game Zone** — Browser-based gaming website
+- ⚛️ **React Components & Props**
+- 🔄 **React useState**
+- ⚡ **React useEffect**
+- 🧭 **React Router**
+- 🪝 **Advanced React Hooks**
+
+---
+
+## 🎓 Education
+
+**BCA** — Silver Oak College  
+2023 – 2026
+
+**BCA Honours** — Semester 7  
+Currently pursuing
+
+---
+
+## 🎯 Currently Looking For
+
+**Web Developer | Frontend Developer | React Developer | Web Development Internship**
+
+📍 Ahmedabad, Gujarat, India
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/kevin-vadhiya-107998293
+- 🌐 Website: https://hanayacreation.in
+- 📧 Email: kevinvadhiya18@gmail.com
