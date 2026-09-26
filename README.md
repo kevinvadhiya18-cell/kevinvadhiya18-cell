@@ -120,3 +120,9 @@ Tools
 Web
 ├── Responsive Design
 └── SEO
+💼 Open to Opportunities
+<p align="center"> <img src="https://img.shields.io/badge/Web_Developer-111827?style=for-the-badge"> <img src="https://img.shields.io/badge/Frontend_Developer-111827?style=for-the-badge"> <img src="https://img.shields.io/badge/React_Developer-111827?style=for-the-badge"> <img src="https://img.shields.io/badge/Junior_Developer-111827?style=for-the-badge"> <img src="https://img.shields.io/badge/Web_Development_Internship-111827?style=for-the-badge"> </p>
+
+I'm interested in opportunities where I can contribute to real-world
+projects, improve my development skills and learn from experienced
+developers.
