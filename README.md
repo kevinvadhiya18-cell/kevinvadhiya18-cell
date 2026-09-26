@@ -1,44 +1,61 @@
-<!-- ========================= -->
-<!--        HERO SECTION        -->
-<!-- ========================= -->
-
 <div align="center">
 
-# KEVIN VADHIYA
+# 👋 Hi, I'm Kevin Vadhiya
 
-### `WEB DEVELOPER` · `FRONTEND DEVELOPER` · `REACT.JS`
+### `WEB DEVELOPER` • `FRONTEND DEVELOPER` • `REACT.JS`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=I+build+responsive+web+experiences.;I+turn+ideas+into+real+websites.;Currently+exploring+modern+frontend+development.;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=I+build+responsive+web+experiences.;I+turn+ideas+into+real+websites.;Frontend+Developer+%7C+React.js+Developer;Always+learning.+Always+building." alt="Typing Animation">
 
-<br>
+<br><br>
 
 <a href="https://hanayacreation.in">
-<img src="https://img.shields.io/badge/%E2%86%92%20LIVE_PROJECT-HANAYA_CREATION-161B22?style=for-the-badge&labelColor=0D1117&color=238636">
+<img src="https://img.shields.io/badge/🌐_HANAYA_CREATION-238636?style=for-the-badge&labelColor=0D1117" alt="Hanaya Creation">
 </a>
 
 <a href="https://www.linkedin.com/in/kevin-vadhiya-107998293">
-<img src="https://img.shields.io/badge/%E2%86%92%20LINKEDIN-KEVIN_VADHIYA-161B22?style=for-the-badge&labelColor=0D1117&color=58A6FF">
+<img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&labelColor=0D1117" alt="LinkedIn">
 </a>
+
+<a href="mailto:kevinvadhiya18@gmail.com">
+<img src="https://img.shields.io/badge/📧_EMAIL-DA3633?style=for-the-badge&labelColor=0D1117" alt="Email">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=kevinvadhiya18-cell&label=PROFILE%20VIEWS&color=58A6FF&style=flat" alt="Profile Views">
 
 </div>
 
 ---
 
-## `01` — WHO AM I?
+## 🧭 PROFILE NAVIGATION
+
+<div align="center">
+
+`👋 ABOUT ME`　→　`🛠️ TECH STACK`　→　`🚀 PROJECT`　→　`📚 LEARNING`　→　`📊 GITHUB`　→　`🤝 CONNECT`
+
+</div>
+
+---
+
+# `01` — WHO AM I?
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  Kevin Vadhiya                                          │
-│  ────────────────────────────────────────────────────    │
-│                                                          │
-│  Role       → Web Developer / Frontend Developer         │
-│  Education  → BCA Graduate                               │
-│               BCA Honours — Semester 7                   │
-│  College    → Silver Oak College, Ahmedabad              │
-│  Location   → Ahmedabad, Gujarat, India                  │
-│                                                          │
-│  Focus      → React.js · JavaScript · Responsive UI      │
-│  Status     → Open to Web Development Opportunities      │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  👨‍💻  KEVIN VADHIYA                                         │
+│                                                              │
+│  ROLE        → Web Developer / Frontend Developer            │
+│                                                              │
+│  EDUCATION   → BCA Graduate                                  │
+│              → BCA Honours — Semester 7                      │
+│                                                              │
+│  COLLEGE     → Silver Oak College, Ahmedabad                 │
+│                                                              │
+│  LOCATION    → Ahmedabad, Gujarat, India                     │
+│                                                              │
+│  FOCUS       → React.js · JavaScript · Responsive UI         │
+│                                                              │
+│  STATUS      → Open to Web Development Opportunities         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
