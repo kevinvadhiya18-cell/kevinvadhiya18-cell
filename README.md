@@ -96,14 +96,14 @@ A responsive e-commerce website developed for a handmade crochet gifts brand.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kevinvadhiya18-cell&show_icons=true&theme=transparent&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinvadhiya18-cell&show_icons=true&hide_border=true&rank_icon=github" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinvadhiya18-cell&theme=transparent&hide_border=true" />
-
+<img src="https://streak-stats.demolab.com/?user=kevinvadhiya18-cell&theme=transparent&hide_border=true" />
 </p>
 
 ---
