@@ -1,61 +1,155 @@
-<div align="center">
-
 # 👋 Hi, I'm Kevin Vadhiya
 
-### `WEB DEVELOPER` • `FRONTEND DEVELOPER` • `REACT.JS`
+### 💻 Web Developer | Frontend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=I+build+responsive+web+experiences.;I+turn+ideas+into+real+websites.;Frontend+Developer+%7C+React.js+Developer;Always+learning.+Always+building." alt="Typing Animation">
+<p align="center">
+  <a href="https://hanayacreation.in">
+    <img src="https://img.shields.io/badge/🌐_Live_Project-Hanaya_Creation-000000?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/kevin-vadhiya-107998293">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
-<br><br>
+---
 
-<a href="https://hanayacreation.in">
-<img src="https://img.shields.io/badge/🌐_HANAYA_CREATION-238636?style=for-the-badge&labelColor=0D1117" alt="Hanaya Creation">
-</a>
+## 🧑‍💻 About Me
+
+🎓 BCA Graduate — Silver Oak College, Ahmedabad  
+📚 BCA Honours — Semester 7  
+📍 Ahmedabad, Gujarat, India  
+💼 Looking for Web Developer / Frontend Developer opportunities
+
+I enjoy building responsive, user-friendly websites and learning modern
+web development technologies.
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github" />
+
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🛍️ Hanaya Creation
+
+A responsive e-commerce website developed for a handmade crochet gifts brand.
+
+**Highlights**
+
+- 📱 Responsive design
+- 🛍️ Product pages
+- 🎥 Product images & videos
+- 🔍 SEO optimization
+- 🗺️ Sitemap & robots.txt
+- ⚡ Interactive UI
+- 🌐 Deployed website
+
+<p align="center">
+  <a href="https://hanayacreation.in">
+    <img src="https://img.shields.io/badge/Visit_Website-Hanaya_Creation-111111?style=for-the-badge&logo=googlechrome">
+  </a>
+</p>
+
+---
+
+<details>
+<summary>🛠️ What I Work With</summary>
+
+<br>
+
+| Area | Technologies |
+|---|---|
+| Frontend | HTML, CSS, JavaScript, React.js |
+| Styling | Tailwind CSS |
+| Development | Vite |
+| Version Control | Git, GitHub |
+| Web | Responsive Design, SEO |
+| Tools | VS Code |
+
+</details>
+
+---
+
+<details>
+<summary>📚 Currently Learning</summary>
+
+<br>
+
+- ⚛️ Advanced React
+- 🎨 Modern UI development
+- 🚀 Frontend performance
+- 🔍 SEO
+- 🧩 Full-stack web development
+
+</details>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kevinvadhiya18-cell&show_icons=true&theme=transparent&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinvadhiya18-cell&theme=transparent&hide_border=true" />
+
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinvadhiya18-cell&layout=compact&theme=transparent&hide_border=true" />
+
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/kevinvadhiya18-cell/kevinvadhiya18-cell/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/kevin-vadhiya-107998293">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&labelColor=0D1117" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://hanayacreation.in">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <a href="mailto:kevinvadhiya18@gmail.com">
-<img src="https://img.shields.io/badge/📧_EMAIL-DA3633?style=for-the-badge&labelColor=0D1117" alt="Email">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=kevinvadhiya18-cell&label=PROFILE%20VIEWS&color=58A6FF&style=flat" alt="Profile Views">
-
-</div>
+</p>
 
 ---
 
-## 🧭 PROFILE NAVIGATION
+<p align="center">
 
-<div align="center">
+### 🚀 Building. Learning. Improving.
 
-`👋 ABOUT ME`　→　`🛠️ TECH STACK`　→　`🚀 PROJECT`　→　`📚 LEARNING`　→　`📊 GITHUB`　→　`🤝 CONNECT`
-
-</div>
-
----
-
-# `01` — WHO AM I?
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  👨‍💻  KEVIN VADHIYA                                         │
-│                                                              │
-│  ROLE        → Web Developer / Frontend Developer            │
-│                                                              │
-│  EDUCATION   → BCA Graduate                                  │
-│              → BCA Honours — Semester 7                      │
-│                                                              │
-│  COLLEGE     → Silver Oak College, Ahmedabad                 │
-│                                                              │
-│  LOCATION    → Ahmedabad, Gujarat, India                     │
-│                                                              │
-│  FOCUS       → React.js · JavaScript · Responsive UI         │
-│                                                              │
-│  STATUS      → Open to Web Development Opportunities         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+</p>
